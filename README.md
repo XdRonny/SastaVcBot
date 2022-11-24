@@ -12,7 +12,7 @@
     <a href="https://github.com/GodseXD/SastaVcBot"> <img src="https://img.shields.io/github/stars/GodseXD/SastaVcBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/DevilsServer"><img src="https://tel"></a></p>
+<p align="center"><a href="https://t.me/DevilsServer"><img src="https://te.legra.ph/file/3c22bcd41561a61a0f7d8.jpg"></a></p>
 <p align="center">
 
 <p align="center">
