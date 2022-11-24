@@ -209,7 +209,7 @@ async def play(_, message: Message):
       
 
         return
-    lel = await message.reply("**🔄 | Processing...**")
+    lel = await message.reply("**🔄  Processing...**")
 
     chid = message.chat.id
 
@@ -566,7 +566,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/codexun)**".format(
+            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/DevilsHaveliMF)**".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
@@ -592,7 +592,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/codexun)**".format(
+            caption="**[Get Additional Information 💡]({})**\n\n**⑆ User :** **{}**\n**⑆ Group : [{}..](https://t.me/DevilsHaveliMF)**".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
