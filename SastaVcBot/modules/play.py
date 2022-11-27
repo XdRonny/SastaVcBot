@@ -209,7 +209,7 @@ async def play(_, message: Message):
       
 
         return
-    lel = await message.reply("**🔄  Processing...**")
+    lel = await message.reply("**🔄 | Processing...**")
 
     chid = message.chat.id
 
